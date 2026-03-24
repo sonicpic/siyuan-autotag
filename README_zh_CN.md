@@ -1,7 +1,7 @@
 # AutoTag
 
 <p align="center">
-  <a href="./README.md">English</a> | <a href="./README_zh_CN.md">简体中文</a>
+  <a href="https://github.com/sonicpic/siyuan-autotag/blob/main/README.md">English</a> | <a href="https://github.com/sonicpic/siyuan-autotag/blob/main/README_zh_CN.md">简体中文</a>
 </p>
 
 为思源笔记提供可审阅的 AI 分类标签建议。
