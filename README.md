@@ -1,5 +1,9 @@
 # AutoTag
 
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README_zh_CN.md">简体中文</a>
+</p>
+
 Reviewable AI classification suggestions for SiYuan notes.
 
 ![AutoTag preview](preview.png)
